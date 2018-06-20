@@ -95,8 +95,12 @@ ol ul, ul ol, ul ul, ol ol {
   margin: 0;
 }
 
-table, th, td {
-	border: 1px solid firebrick;
+table, th {
+	border: 1px solid crimson;
+}
+
+table, td {
+	border: 1px solid firebrick
 }
 
 ul ul, ol ul {
