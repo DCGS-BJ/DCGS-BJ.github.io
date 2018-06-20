@@ -95,10 +95,13 @@ ol ul, ul ol, ul ul, ol ol {
   margin: 0;
 }
 
-table, th, td {
+table, th {
 	border: 1px solid black;
 }
 
+table, td {
+	border: 1px solid purple;
+}
 ul ul, ol ul {
   list-style-type: circle;
 }
