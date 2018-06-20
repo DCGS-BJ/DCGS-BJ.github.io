@@ -12,9 +12,6 @@
 /**************/
 /* BASE RULES */
 /**************/
-table, th, td {
-	border: 1px solid black;
-}
 
 html {
   font-size: 100%;
@@ -96,6 +93,10 @@ ol {
 
 ol ul, ul ol, ul ul, ol ol {
   margin: 0;
+}
+
+table, th, td {
+	border: 1px solid black;
 }
 
 ul ul, ol ul {
