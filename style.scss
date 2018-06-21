@@ -106,6 +106,14 @@ ol ul, ul ol, ul ul, ol ol {
   margin: 0;
 }
 
+table, th {
+	border: 1px solid crimson;
+}
+
+table, td {
+	border: 1px solid firebrick
+}
+
 ul ul, ol ul {
   list-style-type: circle;
 }
