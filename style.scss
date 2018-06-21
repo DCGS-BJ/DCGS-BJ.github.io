@@ -44,6 +44,17 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 1.4;
   }
 }
+h1 {
+    border: 5px solid red;
+}
+
+h2 {
+    border: 4px dotted blue;
+}
+
+div {
+    border: double;
+}
 
 h1 {
   font-size: 30px;
@@ -93,14 +104,6 @@ ol {
 
 ol ul, ul ol, ul ul, ol ol {
   margin: 0;
-}
-
-table, th {
-	border: 1px solid crimson;
-}
-
-table, td {
-	border: 1px solid firebrick
 }
 
 ul ul, ol ul {
